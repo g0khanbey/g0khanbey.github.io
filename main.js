@@ -56,7 +56,7 @@ ScrollReveal().reveal('.home-content p, .about-content,' ,{ origin: 'right' });
 /* Typed Js */
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Computer Engineering','Researcher','Çoban Adam mıdır ?'],
+    strings: ['Computer Engineering','Researcher',''],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
